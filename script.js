@@ -1,4 +1,4 @@
-const startDate = new Date('2024-05-03T00:00:00');
+const startDate = new Date('2024-07-31T19:00:00');
 const contador = document.getElementById('contador');
 
 function actualizarContador() {
