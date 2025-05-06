@@ -1,0 +1,19 @@
+.Love__You {
+  margin: 0;
+  padding: 20px;
+  background: #F5E8DC;
+  font-size: 20px;
+  font-family: 'Arial', sans-serif;
+  color: #5C4033;
+  overflow: auto;
+  text-align: center;
+  border-radius: 20px;
+  max-width: 600px;
+  margin: 50px auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.image img {
+  width: 200px;
+  margin-top: 10px;
+}
